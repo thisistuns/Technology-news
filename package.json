@@ -1,0 +1,32 @@
+{
+  "name": "technology-news",
+  "version": "1.0.0",
+  "description": "My project blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisistuns/Technology-news.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "ExpressJs",
+    "Mongodb"
+  ],
+  "author": "thisistuns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisistuns/Technology-news/issues"
+  },
+  "homepage": "https://github.com/thisistuns/Technology-news#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
